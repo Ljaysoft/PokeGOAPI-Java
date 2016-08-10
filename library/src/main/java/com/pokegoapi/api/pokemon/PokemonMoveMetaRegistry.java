@@ -1110,7 +1110,7 @@ public class PokemonMoveMetaRegistry {
 		metam = new PokemonMoveMeta();
 		metam.setMove(PokemonMove.SPLASH_FAST);
 		metam.setType(PokemonType.WATER);
-		metam.setPower(10);
+		metam.setPower(0);
 		metam.setAccuracy(1);
 		metam.setCritChance(0.05);
 		metam.setTime(1230);
